@@ -91,6 +91,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 120px;
 }
 
 .information-header {
@@ -112,7 +113,6 @@ a {
     text-align: center;
     justify-content: center;
     gap: 8px;
-    
 }
 
 .illustration {
